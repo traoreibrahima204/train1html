@@ -19,6 +19,7 @@ body{
 .wrapper h1{
     font-size: 36px;
     text-align: center;
+    margin-top: 20px;
 }
 .wrapper .input-box{
     position: relative;
@@ -42,7 +43,7 @@ body{
     color: #fff;
 }
 .input-box i{
-    position: absolute;
+   position: absolute;
    right: 20px;
    top: 50%;
    transform: translateY(-50%);
@@ -52,4 +53,24 @@ body{
     justify-content: space-between;
     font-size: 14.5px;
     margin: -15px 0 15px ;
+}
+.rembember-forgot label{
+    justify-content: space-between;
+    
+}
+.rembember-forgot label input{
+    margin-right: 5px;
+}
+
+.btn{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14.5px;
+    margin-left: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+  
+   
+    
 }
