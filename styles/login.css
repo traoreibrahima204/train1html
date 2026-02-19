@@ -56,6 +56,8 @@ body{
 }
 .rembember-forgot label{
     justify-content: space-between;
+}
+.rembember-forgot input{
     
 }
 .rembember-forgot label input{
